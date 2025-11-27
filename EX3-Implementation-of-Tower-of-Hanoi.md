@@ -20,11 +20,7 @@ Developed by: Kamali E
 RegisterNumber:  212222110015
 */
 
-/*
-Program to implement Tower of Hanoi
-Developed by: Roopak C S
-Register Number: 212223220088  
-*/
+
 
 #include <stdio.h>
 
